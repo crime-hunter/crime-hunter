@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @crime-hunter
-- 👀 I’m interested in code
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on code
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 Interest in code
+- ⚡ Professional Network and Data security
 
 <!---
 crime-hunter/crime-hunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
